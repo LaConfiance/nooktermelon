@@ -1,3 +1,22 @@
+### 수박합치기 게임을 해보신 분들에게 약간의 신선한 충격을 줄 수 있도록 변형해서 만든 손진욱 테마의 수박게임, 이른바 '눅공' 게임입니다.
+
+![손진욱 수박게임](./res/share.jpg)
+
+## la kɔ̃fjɑ̃s가 만든 수박게임 시리즈 손진욱 편
+- [기본모드](https://laconfianceensoi.github.io/nooktermelon/)
+- [물리적 특성을 조금 변형한 이른바 '눅공모드'](https://laconfiance.github.io/nooktermelon)
+- [리버스 모드](https://laconfianceensoi.github.io/reversenookbak/)
+- [익스트림 모드](https://laconfianceensoi.github.io/nooktermelonXtreme/)
+
+
+[감성 발라더 무쌍마초 대장 박장현 편](https://laconfianceensoi.github.io/jangmergemelons/)
+
+[숯불청년 김동현 편](https://laconfianceensoi.github.io/mergecharcoalmelons/)
+
+[포크 장인 박창근 편](https://laconfianceensoi.github.io/ajae/)
+
+### 아래는 원작자의 설명문 
+
 # 合成大西瓜
 
 **声明，本项目仅帮助大家学习技术及娱乐，切勿将修改后的网站大规模传播及商用，以避免侵权！**
